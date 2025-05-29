@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, welcome 👋
 
 🇧🇴 I am from Bolivia
 
