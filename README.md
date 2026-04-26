@@ -1,10 +1,6 @@
 ## Hi, welcome
 
-🇧🇴 I am from Bolivia
-
-📚 I am an Economics and Statistics scholar at Macalester College
-
-👀 My interests are: development economics research, finance, and economic consulting
+📚 I am an Economics and Statistics scholar at Macalester College. My interests are: development economics research, finance, and economic consulting.
 
 🗣️ I speak Spanish, English, and French
 
