@@ -1,6 +1,6 @@
 ## Welcome
 
-I am an Economics and Statistics scholar at Macalester College. My interests are: development economics research, finance, and economic consulting.
+I am an Economics and Statistics scholar at Macalester College.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HermogenesDavid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hriostor@macalester.edu) 
